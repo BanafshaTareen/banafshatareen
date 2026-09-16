@@ -1,4 +1,4 @@
-# Hi, I'm Banafsha Tareen 👋
+# Building, Learning & Growing as a Developer | Banafsha Tareen
 
 🎓 BS Computer Science student at Bahauddin Zakariya University, Multan.
 
